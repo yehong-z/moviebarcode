@@ -1,0 +1,16 @@
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.application
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.application
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb

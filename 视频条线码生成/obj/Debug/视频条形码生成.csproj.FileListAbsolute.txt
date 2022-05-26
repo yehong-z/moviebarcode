@@ -1,0 +1,16 @@
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.csproj.GenerateResource.cache
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.csproj.CoreCompileInputs.cache
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.csproj.Fody.CopyLocal.cache
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.csproj.CopyComplete
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\视频条形码生成.exe.config
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\视频条形码生成.exe.manifest
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\视频条形码生成.application
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\视频条形码生成.exe
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\视频条形码生成.pdb
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\moviecodebar.Form1.resources
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\moviecodebar.Properties.Resources.resources
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.exe.manifest
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.application
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.exe
+C:\Users\Yehong\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\视频条形码生成.pdb
